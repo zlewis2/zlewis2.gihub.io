@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Activity 2 Summary </title>
+  </head>
+  <body>
+    <p1>Hello world!</p1>
+    <h1> Activity: Screen Sharing / Remote Desktop </h1>
+    <p2> So remote desktop applications are websites or applications that allow you to remotely connect to a computer that is not the one that you are currently using.
+          I have been using for the last little while a program called parsec. This program is a remote desktop application that benifits from very low latency which
+          allows you to have a very smooth experience while remoting into a computer. It can also be used to remotely connect to a computer for gaming as the low latency
+          will make you have a much better experience. On their website they have explained that the way they are getting such low latency on a remote desktop is that they developed
+          their own network protocall that is specially designed to lower latency with video streams and input controlls. 
+          Since discovering parsec I use it all the time in order to connect to my desktop computer from my laptop in order to play a game that my laptop wouldn't be able to play
+          or acsess files or programs that I don't have on my laptop.
+    </p2>
+    <h2> Activity: VoIP / Messaging</h2>
+    <p3> VoIP is short for "Voice over IP" which essentially a program which allows you to talk to people over the internet vs. the standard phone call using cell towers or phone lines.
+          Online messaging is similar to text messages but instead of going over phone lines through SMS its all through the internet. 
+          The VoIP and messaging app that I use the most is an app called discord. This app allows you to not only directly call and message other people but also create channels which allow you
+          to have group calls that people can go in and out of at any moment. This apps allows groups of people to seemlessly communicate via messages and voice and is awesome overall. 
+          I use discord from everything from work, to gaming, to casually friendly conversations. The fact that all of this can happen over the internet with out needs for phone lines and cell towers is super cool
+          and allows next to anyone to communicate with anyone else over the internet. I will continue to use discord and my main way to communitcate with friends an coworkers.
+    </p3>
+  </body>
+</html>

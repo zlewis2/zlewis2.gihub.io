@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Activity 8 Summary </title>
+  </head>
+  <body>
+    <p1>Hello world!</p1>
+    <h1> Activity: SQL. </h1>
+    <p2> In this assingment I learned what some SQL statements might look like once starting to use them. I learned about the basics of SQL and database management.
+        Being able to use code to search and parse a database can be super usefull. Also having a website to display those querries is also awesome. Once we actually impliment
+        a database to use this code to work on we can start to really understand how to use this to parse datasets.
+    </p2>
+    <ul>
+        <li>SELECT CustomerName,City FROM Customers;</li>
+    </ul>
+    <ul> 
+        <li>
+            SELECT * FROM Customers
+            WHERE Country='Mexico';
+        </li>
+    </ul>
+    <ul> 
+        <li>
+            SELECT COUNT(*)
+            FROM Products;
+        </li>
+    </ul>
+    <ul> 
+        <li>
+            INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+            VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+        </li>
+    </ul>
+    <ul> 
+        <li>
+            UPDATE Customers
+            SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
+            WHERE CustomerID = 1;
+        </li>
+    </ul>
+  </body>
+</html>
